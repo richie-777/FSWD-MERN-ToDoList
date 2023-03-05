@@ -8,24 +8,29 @@ To install the application, clone this repository and navigate to the root direc
 bash
 # Install dependencies for frontend
 cd frontend
+
 npm install
 
 # Install dependencies for backend
 cd ../backend
+
 npm install
 
 
-#Usage
+# Usage
 To run the application, start both the frontend and backend servers:
 
 bash
 # Start frontend server
 cd frontend
+
 npm start
 
 # Start backend server
 cd ../backend
+
 npm start
+
 Once both servers are running, you can access the Todo application in your browser at http://localhost:3000.
 
 # Contributing
